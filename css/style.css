@@ -1,0 +1,19 @@
+* {
+   box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+}
+body {
+	font-family: Myriad Pro, Arial, Helvetica, sans-serif;
+	font-style: 14px;
+	
+}
+@font-face {
+	font-family: 'UTM';
+	src : url(../fonts/UTMIsadoraBold.ttf);
+}
+.carousel-item img {
+	width: 100%;
+	height: 550px;
+}
+
